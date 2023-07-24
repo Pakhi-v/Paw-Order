@@ -1,2 +1,2 @@
 # Paw-Order
-An E-commerce website front-end design for ordering pet stuffs.
+Designed an E-commerce website front-end design for ordering pet stuffs.
